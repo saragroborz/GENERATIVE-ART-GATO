@@ -1,5 +1,5 @@
 # GENERATIVE-ART-GATO
-## My Generative Art Piece
+### My Generative Art Piece
 ###### by Albert Planas i Torrella a.k.a Gato
 ======
 ---
