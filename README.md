@@ -1,6 +1,6 @@
 # GENERATIVE-ART-GATO
 ### **PIXEL WORLDS - GREEN EDITION**
-### by Albert Planas i Torrella a.k.a Gato
+###### by Albert Planas i Torrella a.k.a Gato
 ======
 ---
 **_Description_**
